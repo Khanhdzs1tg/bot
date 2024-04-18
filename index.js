@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '6680636721:AAF2dgx01fIUz72Sigoain3iwinGeh04bW0'
 const id = '7050100156'
-const address = 'https://a267f45e-8cb6-445a-bb48-b91f0b51542d-00-1k0bw0nxhx1a3.kirk.replit.dev/'
+const address = 'https://bot-eba9.onrender.com/'
 
 const app = express();
 const appServer = http.createServer(app);
